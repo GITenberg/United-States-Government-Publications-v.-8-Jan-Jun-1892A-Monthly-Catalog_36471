@@ -1,0 +1,27 @@
+_repo: United-States-Government-Publications-v.-8-Jan-Jun-1892A-Monthly-Catalog_36471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hickcox, John H.
+    alias: Hickcox, John Howard
+    birthdate: 1832
+    deathdate: 1897
+    gutenberg_agent_id: '38295'
+    url: http://www.gutenberg.org/2009/agents/38295
+description: ''
+gutenberg_issued: '2011-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Government publications -- United States -- Bibliography'
+- !lcc 'Z'
+title: "United States Government Publications, v. 8  Jan.-Jun. 1892\r\nA Monthly Catalog"
+url: http://www.gutenberg.org/ebooks/36471
